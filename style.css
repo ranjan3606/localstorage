@@ -1,0 +1,49 @@
+html{
+    background: cyan;
+}
+h2{
+    text-align: center;
+    font-size: 28px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em
+}
+#itext{
+    text-align: center;
+    height: 40px;
+    width: 400px;
+    border: none;
+    border-radius: 30px;
+}
+#btn{
+    margin: 1rem;
+    height: 40px;
+    width: 100px;
+    border: none;
+    background: blue;
+    color: #fff;
+    font-size: 24px;
+    border-radius: 10%;
+}
+#btn1{
+    margin: 1rem;
+    height: 30px;
+    width: 80px;
+    border: none;
+    background: rgb(255, 3, 57);
+    color: #fff;
+    font-size: 14px;
+    border-radius: 10%;
+}
+.datastore{
+    text-align: center;
+    width: 18rem;
+    background: burlywood;
+    border: 3px solid #000
+}
+.p{
+    color: cornsilk;
+    font-size: 18px;
+}
